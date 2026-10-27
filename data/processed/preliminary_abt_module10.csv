@@ -1,0 +1,225 @@
+origin,dest,flight_count,avg_dep_delay,avg_arr_delay,avg_distance,dest_airport_name
+EWR,ALB,439,23.62,14.4,143.0,Albany Intl
+EWR,ANC,8,12.88,-2.5,3370.0,Ted Stevens Anchorage Intl
+EWR,ATL,5022,15.5,13.23,746.0,Hartsfield Jackson Atlanta Intl
+EWR,AUS,968,11.51,-0.47,1504.0,Austin Bergstrom Intl
+EWR,AVL,265,8.62,8.8,583.0,Asheville Regional Airport
+EWR,BDL,443,17.72,7.05,116.0,Bradley Intl
+EWR,BNA,2336,17.69,12.71,748.0,Nashville Intl
+EWR,BOS,5327,12.55,4.78,200.0,General Edward Lawrence Logan Intl
+EWR,BQN,297,23.87,10.86,1585.0,
+EWR,BTV,931,17.81,12.19,266.0,Burlington Intl
+EWR,BUF,973,14.36,9.7,282.0,Buffalo Niagara Intl
+EWR,BWI,545,18.5,15.08,169.0,Baltimore Washington Intl
+EWR,BZN,36,11.46,7.6,1882.0,Gallatin Field
+EWR,CAE,104,36.34,44.59,602.0,Columbia Metropolitan
+EWR,CHS,1424,17.58,16.19,628.0,Charleston Afb Intl
+EWR,CLE,1754,11.77,5.04,404.0,Cleveland Hopkins Intl
+EWR,CLT,5026,9.9,7.78,529.0,Charlotte Douglas Intl
+EWR,CMH,724,13.39,9.6,463.0,Port Columbus Intl
+EWR,CVG,2673,17.32,14.93,569.0,Cincinnati Northern Kentucky Intl
+EWR,DAY,1134,21.21,18.38,533.0,James M Cox Dayton Intl
+EWR,DCA,1719,21.26,21.31,199.0,Ronald Reagan Washington Natl
+EWR,DEN,2859,16.54,9.03,1605.0,Denver Intl
+EWR,DFW,3148,11.82,1.9,1372.0,Dallas Fort Worth Intl
+EWR,DSM,411,29.33,23.55,1017.0,Des Moines Intl
+EWR,DTW,3178,16.29,10.92,488.0,Detroit Metro Wayne Co
+EWR,EGE,110,8.0,-5.35,1725.54,Eagle Co Rgnl
+EWR,FLL,3793,13.53,7.76,1065.0,Fort Lauderdale Hollywood Intl
+EWR,GRR,719,20.56,19.37,605.0,Gerald R Ford Intl
+EWR,GSO,1120,19.38,17.66,445.0,Piedmont Triad
+EWR,GSP,745,20.81,18.14,594.0,Greenville-Spartanburg International
+EWR,HDN,15,12.29,2.14,1728.0,Yampa Valley
+EWR,HNL,365,13.42,3.92,4963.0,Honolulu Intl
+EWR,HOU,976,18.91,9.62,1411.0,William P Hobby
+EWR,IAD,1236,18.58,14.8,212.0,Washington Dulles Intl
+EWR,IAH,3973,11.83,5.41,1400.0,George Bush Intercontinental
+EWR,IND,1301,14.28,12.21,645.0,Indianapolis Intl
+EWR,JAC,23,28.7,29.89,1874.0,Jackson Hole Airport
+EWR,JAX,1242,19.18,15.99,820.0,Jacksonville Intl
+EWR,LAS,2010,11.23,-0.77,2227.0,Mc Carran Intl
+EWR,LAX,4912,11.42,2.9,2454.0,Los Angeles Intl
+EWR,LGA,1,,,17.0,La Guardia
+EWR,MCI,1356,21.7,20.24,1092.0,Kansas City Intl
+EWR,MCO,4941,11.0,3.83,937.0,Orlando Intl
+EWR,MDW,2043,17.33,13.71,711.0,Chicago Midway Intl
+EWR,MEM,926,19.43,19.91,946.0,Memphis Intl
+EWR,MHT,867,20.63,14.43,209.0,Manchester Regional Airport
+EWR,MIA,2633,11.62,3.98,1085.0,Miami Intl
+EWR,MKE,1094,23.55,24.0,725.0,General Mitchell Intl
+EWR,MSN,354,21.44,23.2,799.0,Dane Co Rgnl Truax Fld
+EWR,MSP,2377,15.31,8.4,1008.0,Minneapolis St Paul Intl
+EWR,MSY,1155,19.27,9.24,1167.0,Louis Armstrong New Orleans Intl
+EWR,MTJ,15,17.64,1.79,1795.0,Montrose Regional Airport
+EWR,MYR,56,16.58,5.02,550.0,Myrtle Beach Intl
+EWR,OKC,346,30.57,30.62,1325.0,Will Rogers World
+EWR,OMA,754,19.3,14.82,1134.0,Eppley Afld
+EWR,ORD,6100,14.64,9.0,719.0,Chicago Ohare Intl
+EWR,ORF,584,17.36,12.56,284.0,Norfolk Intl
+EWR,PBI,2351,13.96,7.87,1023.0,Palm Beach Intl
+EWR,PDX,571,16.57,1.11,2434.0,Portland Intl
+EWR,PHL,49,18.92,16.54,80.0,Philadelphia Intl
+EWR,PHX,2723,10.64,2.87,2133.0,Phoenix Sky Harbor Intl
+EWR,PIT,559,10.63,5.68,319.0,Pittsburgh Intl
+EWR,PVD,376,21.77,16.23,160.0,Theodore Francis Green State
+EWR,PWM,770,25.71,23.01,284.0,Portland Intl Jetport
+EWR,RDU,1482,15.92,12.66,416.0,Raleigh Durham Intl
+EWR,RIC,1667,26.48,25.82,277.0,Richmond Intl
+EWR,ROC,513,27.86,20.66,246.0,Greater Rochester Intl
+EWR,RSW,1437,5.93,-2.26,1068.0,Southwest Florida Intl
+EWR,SAN,1134,12.93,3.01,2425.0,San Diego Intl
+EWR,SAT,330,17.83,7.69,1569.0,San Antonio Intl
+EWR,SAV,736,19.77,17.69,708.0,Savannah Hilton Head Intl
+EWR,SBN,4,5.75,-5.5,637.0,South Bend Rgnl
+EWR,SDF,894,19.06,16.46,642.0,Louisville International Airport
+EWR,SEA,1831,12.82,-0.35,2402.0,Seattle Tacoma Intl
+EWR,SFO,5127,14.33,2.34,2565.0,San Francisco Intl
+EWR,SJU,1067,7.48,0.43,1608.0,
+EWR,SLC,354,16.76,11.38,1969.0,Salt Lake City Intl
+EWR,SNA,825,7.76,-7.87,2434.0,John Wayne Arpt Orange Co
+EWR,STL,2516,20.81,16.29,872.0,Lambert St Louis Intl
+EWR,STT,189,6.15,0.62,1634.0,
+EWR,SYR,157,12.7,7.27,195.0,Syracuse Hancock Intl
+EWR,TPA,2334,13.07,6.36,997.0,Tampa Intl
+EWR,TUL,315,34.91,33.66,1215.0,Tulsa Intl
+EWR,TVC,24,17.87,3.0,644.0,Cherry Capital Airport
+EWR,TYS,323,41.82,41.15,631.0,Mc Ghee Tyson
+EWR,XNA,291,7.81,8.35,1131.0,NW Arkansas Regional
+JFK,ABQ,254,13.74,4.38,1826.0,Albuquerque International Sunport
+JFK,ACK,265,6.46,4.85,199.0,Nantucket Mem
+JFK,ATL,1930,10.47,6.27,760.0,Hartsfield Jackson Atlanta Intl
+JFK,AUS,1471,14.02,10.29,1521.0,Austin Bergstrom Intl
+JFK,BHM,1,7.0,-19.0,865.0,Birmingham Intl
+JFK,BNA,730,18.88,12.16,765.0,Nashville Intl
+JFK,BOS,5898,11.69,4.91,187.0,General Edward Lawrence Logan Intl
+JFK,BQN,599,6.67,6.94,1576.0,
+JFK,BTV,1364,10.4,8.13,266.0,Burlington Intl
+JFK,BUF,3582,13.27,9.14,301.0,Buffalo Niagara Intl
+JFK,BUR,371,13.48,8.18,2465.0,Bob Hope
+JFK,BWI,1221,15.61,8.98,184.0,Baltimore Washington Intl
+JFK,CHS,960,8.69,5.16,636.0,Charleston Afb Intl
+JFK,CLE,707,17.03,17.38,425.0,Cleveland Hopkins Intl
+JFK,CLT,2870,8.59,6.59,541.0,Charlotte Douglas Intl
+JFK,CMH,742,22.02,22.92,483.0,Port Columbus Intl
+JFK,CVG,997,27.35,19.11,589.0,Cincinnati Northern Kentucky Intl
+JFK,DCA,3270,12.42,7.52,213.0,Ronald Reagan Washington Natl
+JFK,DEN,703,20.1,10.82,1626.0,Denver Intl
+JFK,DFW,732,14.38,4.16,1391.0,Dallas Fort Worth Intl
+JFK,DTW,1166,17.49,5.6,509.0,Detroit Metro Wayne Co
+JFK,EGE,103,23.44,18.53,1746.57,Eagle Co Rgnl
+JFK,FLL,4254,11.88,6.93,1069.0,Fort Lauderdale Hollywood Intl
+JFK,HNL,342,4.9,-6.92,4983.0,Honolulu Intl
+JFK,HOU,714,10.53,7.7,1428.0,William P Hobby
+JFK,IAD,2661,16.44,13.52,228.0,Washington Dulles Intl
+JFK,IAH,274,15.62,17.13,1417.0,George Bush Intercontinental
+JFK,IND,689,14.89,7.53,665.0,Indianapolis Intl
+JFK,JAC,2,5.0,11.0,1894.0,Jackson Hole Airport
+JFK,JAX,1299,15.01,9.39,828.0,Jacksonville Intl
+JFK,LAS,3987,8.51,0.77,2248.0,Mc Carran Intl
+JFK,LAX,11262,8.52,-0.48,2475.0,Los Angeles Intl
+JFK,LGB,668,11.18,-0.06,2465.0,Long Beach
+JFK,MCI,276,23.09,5.8,1113.0,Kansas City Intl
+JFK,MCO,5464,10.6,5.3,944.0,Orlando Intl
+JFK,MEM,1,14.0,-5.0,964.0,Memphis Intl
+JFK,MIA,3314,9.34,-1.99,1089.0,Miami Intl
+JFK,MKE,183,19.86,13.12,745.0,General Mitchell Intl
+JFK,MSP,1095,21.33,8.77,1029.0,Minneapolis St Paul Intl
+JFK,MSY,1633,13.99,7.15,1182.0,Louis Armstrong New Orleans Intl
+JFK,MVY,221,7.05,-0.29,173.0,Martha\\'s Vineyard
+JFK,OAK,312,13.34,3.08,2576.0,Metropolitan Oakland Intl
+JFK,ORD,2326,21.55,13.14,740.0,Chicago Ohare Intl
+JFK,ORF,746,18.03,10.58,290.0,Norfolk Intl
+JFK,PBI,1739,14.42,13.09,1028.0,Palm Beach Intl
+JFK,PDX,783,16.03,8.06,2454.0,Portland Intl
+JFK,PHL,976,17.48,12.69,94.0,Philadelphia Intl
+JFK,PHX,1933,10.1,1.02,2153.0,Phoenix Sky Harbor Intl
+JFK,PIT,1249,12.14,6.92,340.0,Pittsburgh Intl
+JFK,PSE,365,10.15,7.87,1617.0,
+JFK,PSP,19,-2.94,-12.72,2378.0,Palm Springs Intl
+JFK,PWM,1304,11.63,7.3,273.0,Portland Intl Jetport
+JFK,RDU,3100,15.01,10.66,427.0,Raleigh Durham Intl
+JFK,RIC,249,17.41,11.39,288.0,Richmond Intl
+JFK,ROC,1679,13.25,10.15,264.0,Greater Rochester Intl
+JFK,RSW,1339,10.08,6.97,1074.0,Southwest Florida Intl
+JFK,SAN,1603,9.82,3.23,2446.0,San Diego Intl
+JFK,SAT,356,23.41,6.23,1587.0,San Antonio Intl
+JFK,SDF,46,23.98,16.35,662.0,Louisville International Airport
+JFK,SEA,2092,8.89,-1.76,2422.0,Seattle Tacoma Intl
+JFK,SFO,8204,11.95,2.88,2586.0,San Francisco Intl
+JFK,SJC,329,10.1,3.45,2569.0,Norman Y Mineta San Jose Intl
+JFK,SJU,4752,10.33,2.99,1598.0,
+JFK,SLC,2113,7.73,-1.7,1990.0,Salt Lake City Intl
+JFK,SMF,284,18.69,12.11,2521.0,Sacramento Intl
+JFK,SRQ,474,4.43,0.75,1041.0,Sarasota Bradenton Intl
+JFK,STL,1,20.0,-8.0,892.0,Lambert St Louis Intl
+JFK,STT,333,3.74,-6.37,1623.0,
+JFK,SYR,1311,13.66,9.02,209.0,Syracuse Hancock Intl
+JFK,TPA,2987,12.01,7.66,1005.0,Tampa Intl
+LGA,ATL,10263,11.45,11.32,762.0,Hartsfield Jackson Atlanta Intl
+LGA,AVL,10,-2.6,-12.1,599.0,Asheville Regional Airport
+LGA,BGR,375,19.48,8.03,378.0,Bangor Intl
+LGA,BHM,296,29.78,17.01,866.0,Birmingham Intl
+LGA,BNA,3267,14.13,11.1,764.0,Nashville Intl
+LGA,BOS,4283,-0.54,-2.42,184.0,General Edward Lawrence Logan Intl
+LGA,BTV,294,15.76,2.6,258.0,Burlington Intl
+LGA,BUF,126,10.7,-2.45,292.0,Buffalo Niagara Intl
+LGA,BWI,15,3.2,-7.87,185.0,Baltimore Washington Intl
+LGA,CAE,12,29.5,19.67,617.0,Columbia Metropolitan
+LGA,CAK,864,20.82,19.7,397.0,Akron Canton Regional Airport
+LGA,CHO,52,21.39,9.5,305.0,Charlottesville-Albemarle
+LGA,CHS,500,18.39,5.55,641.0,Charleston Afb Intl
+LGA,CLE,2112,13.57,10.04,419.0,Cleveland Hopkins Intl
+LGA,CLT,6168,8.97,7.38,544.0,Charlotte Douglas Intl
+LGA,CMH,2058,8.25,6.47,479.0,Port Columbus Intl
+LGA,CRW,138,17.0,14.67,444.0,Yeager
+LGA,CVG,271,12.18,5.91,585.0,Cincinnati Northern Kentucky Intl
+LGA,DAY,391,6.07,-4.95,549.0,James M Cox Dayton Intl
+LGA,DCA,4716,4.97,5.84,214.0,Ronald Reagan Washington Natl
+LGA,DEN,3704,13.15,7.85,1620.0,Denver Intl
+LGA,DFW,4858,5.81,-1.26,1389.0,Dallas Fort Worth Intl
+LGA,DSM,158,17.22,5.68,1031.0,Des Moines Intl
+LGA,DTW,5040,7.77,2.03,502.0,Detroit Metro Wayne Co
+LGA,EYW,17,3.65,6.35,1207.0,Key West Intl
+LGA,FLL,4008,12.88,9.61,1076.0,Fort Lauderdale Hollywood Intl
+LGA,GRR,46,2.12,-2.13,618.0,Gerald R Ford Intl
+LGA,GSO,486,19.43,5.81,461.0,Piedmont Triad
+LGA,GSP,104,8.23,0.35,610.0,Greenville-Spartanburg International
+LGA,HOU,425,10.43,0.84,1428.0,William P Hobby
+LGA,IAD,1803,16.65,13.71,229.0,Washington Dulles Intl
+LGA,IAH,2951,9.06,1.45,1416.0,George Bush Intercontinental
+LGA,ILM,110,19.42,4.64,500.0,Wilmington Intl
+LGA,IND,87,3.61,-5.0,660.0,Indianapolis Intl
+LGA,JAX,179,8.7,1.42,833.0,Jacksonville Intl
+LGA,LEX,1,-9.0,-22.0,604.0,Blue Grass
+LGA,MCI,376,13.44,0.17,1107.0,Kansas City Intl
+LGA,MCO,3677,12.66,7.86,950.0,Orlando Intl
+LGA,MDW,2070,19.82,11.05,725.0,Chicago Midway Intl
+LGA,MEM,862,11.84,1.35,963.0,Memphis Intl
+LGA,MHT,142,24.04,17.53,195.0,Manchester Regional Airport
+LGA,MIA,5781,7.36,-0.07,1096.0,Miami Intl
+LGA,MKE,1525,15.19,7.25,738.0,General Mitchell Intl
+LGA,MSN,218,27.12,15.29,812.0,Dane Co Rgnl Truax Fld
+LGA,MSP,3713,9.75,6.13,1020.0,Minneapolis St Paul Intl
+LGA,MSY,1011,9.0,2.33,1183.0,Louis Armstrong New Orleans Intl
+LGA,MYR,3,0.67,-3.0,563.0,Myrtle Beach Intl
+LGA,OMA,95,27.37,13.74,1148.0,Eppley Afld
+LGA,ORD,8857,10.74,1.83,733.0,Chicago Ohare Intl
+LGA,ORF,206,16.55,7.78,296.0,Norfolk Intl
+LGA,PBI,2464,11.05,6.02,1035.0,Palm Beach Intl
+LGA,PHL,607,3.19,5.78,96.0,Philadelphia Intl
+LGA,PIT,1067,17.18,9.63,335.0,Pittsburgh Intl
+LGA,PWM,278,14.24,1.86,269.0,Portland Intl Jetport
+LGA,RDU,3581,8.73,8.42,431.0,Raleigh Durham Intl
+LGA,RIC,538,17.36,5.64,292.0,Richmond Intl
+LGA,ROC,224,12.82,1.81,254.0,Greater Rochester Intl
+LGA,RSW,761,9.52,7.06,1080.0,Southwest Florida Intl
+LGA,SAV,68,3.06,-10.51,722.0,Savannah Hilton Head Intl
+LGA,SBN,6,31.33,14.5,651.0,South Bend Rgnl
+LGA,SDF,217,4.19,-3.44,659.0,Louisville International Airport
+LGA,SRQ,737,9.08,4.59,1047.0,Sarasota Bradenton Intl
+LGA,STL,1822,9.55,4.09,888.0,Lambert St Louis Intl
+LGA,SYR,293,19.11,9.25,198.0,Syracuse Hancock Intl
+LGA,TPA,2145,11.29,8.21,1010.0,Tampa Intl
+LGA,TVC,77,23.41,15.97,655.0,Cherry Capital Airport
+LGA,TYS,308,12.71,3.89,647.0,Mc Ghee Tyson
+LGA,XNA,745,5.93,7.11,1147.0,NW Arkansas Regional
